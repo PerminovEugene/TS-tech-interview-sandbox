@@ -1,13 +1,21 @@
 # Simple TS sandbox for tech interviews
 
+Write code in src/index.ts and add tests in index.ts
+
 ## Setup:
 
-1. npm i
+```sh
+npm i
+```
 
 ## Launch code
 
-1. npm run start
+```sh
+npm run start
+```
 
 ## Launch tests
 
-1. npm run test
+```sh
+npm run test
+```
