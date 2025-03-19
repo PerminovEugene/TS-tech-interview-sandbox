@@ -1,0 +1,20 @@
+{
+  "name": "interview-sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "test": "tsc && jest"
+  },
+  "author": "Evgenii Perminov",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.6",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  },
+  "keywords": ["Sandbox", "interview", "environment", "coding session", "live coding", "typescript", "TS"],
+  "description": "TS live coding tech interview sandbox environment."
+}
